@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoTani</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="tabungan">Tabungan</string>
+    <string name="jmlhtabungan"></string>
+    <string name="product">Product</string>
+</resources>
